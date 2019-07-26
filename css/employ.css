@@ -1,0 +1,13 @@
+body{
+	width: 50%;
+	margin: 0 auto;
+	
+}
+table{
+	margin-top: 1em;
+}
+th{
+	width: 6em;
+	background: #b2d1bf;
+	text-align: left;
+}
